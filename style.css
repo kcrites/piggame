@@ -152,3 +152,39 @@ i {
 
 .winner { background-color: #f7f7f7; }
 .winner .player-name { font-weight: 300; color: #EB4D4D; }
+
+label {
+    position: absolute;
+    width: 200px;
+    left: 42%;
+    height: 25px;
+    font-size: 1em;
+    top: 525px;
+}
+
+.winning-score-label {
+    position: absolute;
+    width: 200px;
+    left: 42%;
+    height: 25px;
+    font-size: 1em;
+    top: 500px;
+}
+ .winning-score {
+    position: absolute;
+    width: 200px;
+    left: 60%;
+    height: 25px;
+    font-size: 1em;
+    top: 500px;
+}
+
+input {
+    position: absolute;
+    width: 100px;
+    left: 45%;
+    height: 25px;
+    font-size: 1em;
+}
+.btn-submit { top: 575px;}
+.max-input { top: 550px;}
